@@ -4,7 +4,17 @@
 
 ##### เกมนี้เป็นเกมทำระหว่างเรียนอยู่ชั้นปีที่ 2 มหาวิทยาลัยเชียงใหม่ อาจมีบัคและข้อผิดพลาดเล็กน้อย
 
-##### ใช้ .Net Core ในการรัน Gameplay 
+##### ใช้ .Net Core ในการรัน Gameplay
 
-##### ใช้ Visual Studio (Monogame) ในการสร้างเกมนี้ขึ้นมา
+## ใช้ Visual Studio (Monogame) ในการสร้างเกมนี้ขึ้นมา 
+
+## Credit 
+
+## Natchanon Kwandee  Role : Artist
+
+## Thanakrit Soomelux Role : Lead Coding
+
+## Ben Rujirekanusorn Role : Game Design, Lead Artist
+
+## Supakorn Saorong   Role : Coding
 
